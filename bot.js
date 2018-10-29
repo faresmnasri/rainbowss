@@ -171,4 +171,4 @@ function sin_to_hex(i, phase) {
 }
 let place = 0;
 
-client.login('NDY2MTQwNTEzMTU0NzYwNzE0.DrZ-Cw.zXSVuaWOfZjmJHIjPNEylmTgA4I');
+client.login(process.env.BOT_TOKEN);
